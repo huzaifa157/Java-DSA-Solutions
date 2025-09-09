@@ -39,7 +39,7 @@ public class subarray {
             System.out.println();
         }
 
-        System.out.println("Total subarrays: " + totalSubarray);
+        System.out.println("Total subarrays : " + totalSubarray);
         System.out.println("Total sum of all subarray sums: " + t_sum);
         System.out.println("Maximum subarray sum: " + maxSub);
         System.out.println("Minimum subarray sum: " + minSub);
